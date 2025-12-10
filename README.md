@@ -2,7 +2,7 @@
 ## I'm Kayd from the Earth. 🌍
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;UI%2FUX+Designer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Kayd;Learning;UI%2FUX+Designer;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ---
